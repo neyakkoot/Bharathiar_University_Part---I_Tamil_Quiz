@@ -14,6 +14,7 @@
     "quizzes": [
       { "file": "Part1-Tamil-Unit-1.json", "title": "அலகு 1" },
       { "file": "Part1-Tamil-Unit-1_1.json", "title": "அலகு 1 ஆழ்நோக்குத் தேர்வு" },
+      { "file": "Part1-Tamil-Unit-2.json", "title": "அலகு 2" },
       { "file": "Part1-Tamil-Unit-3.json", "title": "அலகு 3" },
       { "file": "Part1-Tamil-Unit-4.json", "title": "அலகு 4" },
       { "file": "Part1-Tamil-Unit-5.json", "title": "அலகு 5" }    
