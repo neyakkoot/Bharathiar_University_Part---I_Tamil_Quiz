@@ -1,6 +1,6 @@
 [
   {
-    "category": "முதலாம் ஆண்டு-2025-26 - முற்பருவம்",
+    "category": "முதலாம் ஆண்டு - முற்பருவம்",
     "quizzes": [
       { "file": "Part1-Tamil-Unit-1.json", "title": "அலகு 1" },
       { "file": "Part1-Tamil-Unit-2.json", "title": "அலகு 2" },
@@ -10,10 +10,30 @@
     ]
   },
   {
-    "category": "முதலாம் ஆண்டு-2025-26 - பிற்பருவம்",
+    "category": "முதலாம் ஆண்டு - பிற்பருவம்",
     "quizzes": [
       { "file": "Part1-Tamil-Unit-1.json", "title": "அலகு 1" },
       { "file": "Part1-Tamil-Unit-1_1.json", "title": "அலகு 1 ஆழ்நோக்குத் தேர்வு" },
+      { "file": "Part1-Tamil-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part1-Tamil-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part1-Tamil-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part1-Tamil-Unit-5.json", "title": "அலகு 5" }    
+     ]
+  },
+  {
+    "category": "இரண்டாம் ஆண்டு - முற்பருவம்",
+    "quizzes": [
+      { "file": "Part1-Tamil-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part1-Tamil-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part1-Tamil-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part1-Tamil-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part1-Tamil-Unit-5.json", "title": "அலகு 5" }    
+     ]
+  },
+  {
+    "category": "இரண்டாம் ஆண்டு - பிற்பருவம்",
+    "quizzes": [
+      { "file": "Part1-Tamil-Unit-1.json", "title": "அலகு 1" },
       { "file": "Part1-Tamil-Unit-2.json", "title": "அலகு 2" },
       { "file": "Part1-Tamil-Unit-3.json", "title": "அலகு 3" },
       { "file": "Part1-Tamil-Unit-4.json", "title": "அலகு 4" },
