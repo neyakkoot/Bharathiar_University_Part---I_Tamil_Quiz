@@ -2,62 +2,57 @@
   {
     "category": "முதலாம் ஆண்டு - முற்பருவம்",
     "quizzes": [
-      { "file": "Part1-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
-      { "file": "Part1-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
-      { "file": "Part1-Tamil-OddSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-Tamil-OddSem-Unit-4.json", "title": "அலகு 4" },
-      { "file": "Part1-Tamil-OddSem-Unit-5.json", "title": "அலகு 5" }
+      { "file": "Part1-Istyear-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part1-Istyear-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part1-Istyear-Tamil-OddSem-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part1-Istyear-Tamil-OddSem-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part1-Istyear-Tamil-OddSem-Unit-5.json", "title": "அலகு 5" }
     ]
   },
   {
     "category": "முதலாம் ஆண்டு - பிற்பருவம்",
     "quizzes": [
-      { "file": "Part1-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
-      { "file": "Part1-Tamil-EvenSem-Unit-1_1.json", "title": "அலகு 1 ஆழ்நோக்குத் தேர்வு" },
-      { "file": "Part1-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
-      { "file": "Part1-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-Tamil-EvenSem-Unit-4.json", "title": "அலகு 4" },
-      { "file": "Part1-Tamil-EvenSem-Unit-5.json", "title": "அலகு 5" }    
+      { "file": "Part1-Istyear-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part1-Istyear-Tamil-EvenSem-Unit-1_1.json", "title": "அலகு 1 ஆழ்நோக்குத் தேர்வு" },
+      { "file": "Part1-Istyear-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part1-Istyear-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part1-Istyear-Tamil-EvenSem-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part1-Istyear-Tamil-EvenSem-Unit-5.json", "title": "அலகு 5" }    
      ]
   },
   {
     "category": "இரண்டாம் ஆண்டு - முற்பருவம்",
     "quizzes": [
-      { "file": "Part1-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
-      { "file": "Part1-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
-      { "file": "Part1-Tamil-OddSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-Tamil-OddSem-Unit-4.json", "title": "அலகு 4" },
-      { "file": "Part1-Tamil-OddSem-Unit-5.json", "title": "அலகு 5" }    
+      { "file": "Part1-IIndyear-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part1-IIndyear-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part1-IIndyear-Tamil-OddSem-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part1-IIndyear-Tamil-OddSem-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part1-IIndyear-Tamil-OddSem-Unit-5.json", "title": "அலகு 5" }    
      ]
   },
   {
     "category": "இரண்டாம் ஆண்டு - பிற்பருவம்",
     "quizzes": [
-      { "file": "Part1-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
-      { "file": "Part1-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
-      { "file": "Part1-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-Tamil-EvenSem-Unit-4.json", "title": "அலகு 4" },
-      { "file": "Part1-Tamil-EvenSem-Unit-5.json", "title": "அலகு 5" }    
-     ]
-  },
-  {
-    "category": "சிறப்புத் தமிழ் - முற்பருவம்",
+      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-4.json", "title":முற்பருவம்",
     "quizzes": [
-      { "file": "Part1-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
-      { "file": "Part1-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
-      { "file": "Part1-Tamil-OddSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-Tamil-OddSem-Unit-4.json", "title": "அலகு 4" },
-      { "file": "Part1-Tamil-OddSem-Unit-5.json", "title": "அலகு 5" }    
+      { "file": "Part4-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part4-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part4-Tamil-OddSem-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part4-Tamil-OddSem-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part4-Tamil-OddSem-Unit-5.json", "title": "அலகு 5" }    
      ]
   },
   {
     "category": "சிறப்புத் தமிழ் - பிற்பருவம்",
     "quizzes": [
-      { "file": "Part1-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
-      { "file": "Part1-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
-      { "file": "Part1-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-Tamil-EvenSem-Unit-4.json", "title": "அலகு 4" },
-      { "file": "Part1-Tamil-EvenSem-Unit-5.json", "title": "அலகு 5" }    
+      { "file": "Part4-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
+      { "file": "Part4-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
+      { "file": "Part4-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
+      { "file": "Part4-Tamil-EvenSem-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part4-Tamil-EvenSem-Unit-5.json", "title": "அலகு 5" }    
      ]
   }
 ]
