@@ -36,7 +36,12 @@
       { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-1.json", "title": "அலகு 1" },
       { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-2.json", "title": "அலகு 2" },
       { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-3.json", "title": "அலகு 3" },
-      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-4.json", "title":முற்பருவம்",
+      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-4.json", "title": "அலகு 4" },
+      { "file": "Part1-IIndyear-Tamil-EvenSem-Unit-5.json", "title": "அலகு 5" }    
+     ]
+  },
+  {
+    "category": "சிறப்புத் தமிழ் - முற்பருவம்",
     "quizzes": [
       { "file": "Part4-Tamil-OddSem-Unit-1.json", "title": "அலகு 1" },
       { "file": "Part4-Tamil-OddSem-Unit-2.json", "title": "அலகு 2" },
